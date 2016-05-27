@@ -48,3 +48,4 @@ Temporary Items
 
 # The compiled folder
 out
+out/*
