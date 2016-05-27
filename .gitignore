@@ -48,5 +48,4 @@ Temporary Items
 
 # Project specific files/folders
 out/**
-.idea/workspace.xml
-.idea/workspace.xml
+.idea/**
