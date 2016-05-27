@@ -1,14 +1,47 @@
 <component name="libraryTable">
   <library name="AppEngine API">
     <CLASSES>
-      <root url="file://C:/Utilities/appengine-java-sdk-1.9.37/lib/user" />
-      <root url="file://C:/Utilities/appengine-java-sdk-1.9.37/lib/opt/user/appengine-endpoints/v1" />
-      <root url="file://C:/Utilities/appengine-java-sdk-1.9.37/lib/opt/user/jsr107/v1" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-android-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-appengine-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-gson-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-jackson2-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-java6-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-protobuf-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-servlet-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-api-client-xml-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-android-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-appengine-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-gson-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-jackson-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-jackson2-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-jdo-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-protobuf-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-http-client-xml-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-oauth-client-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-oauth-client-appengine-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-oauth-client-java6-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-oauth-client-jetty-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/google-oauth-client-servlet-1.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/gson-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/guava-jdk5-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/httpclient-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/httpcore-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/jackson-core-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/jackson-core-asl-1.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/jdo2-api-2.3-eb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/jetty-6.1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/jetty-util-6.1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/jsr305-1.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/protobuf-java-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/transaction-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/xpp3-1.1.4c.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
-    <jarDirectory url="file://C:/Utilities/appengine-java-sdk-1.9.37/lib/opt/user/appengine-endpoints/v1" recursive="false" />
-    <jarDirectory url="file://C:/Utilities/appengine-java-sdk-1.9.37/lib/opt/user/jsr107/v1" recursive="false" />
-    <jarDirectory url="file://C:/Utilities/appengine-java-sdk-1.9.37/lib/user" recursive="false" />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/google-api-java-client/jsr305-1.3.9.jar!/" />
+    </SOURCES>
   </library>
 </component>
