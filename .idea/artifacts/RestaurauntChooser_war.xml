@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RestaurauntChooser:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/RestaurauntChooser_war</output-path>
+    <root id="archive" name="RestaurauntChooser_war.war">
+      <element id="artifact" artifact-name="RestaurauntChooser:war exploded" />
+    </root>
+  </artifact>
+</component>
