@@ -39,7 +39,8 @@
 
      If you need IE8 support, change 'ractive' to 'ractive-legacy'.
 -->
-<script src='http://cdn.ractivejs.org/latest/ractive.min.js'></script>
+<%--<script src='http://cdn.ractivejs.org/latest/ractive.min.js'></script>--%>
+<script src='/js/ractive.js'></script>
 
 <!--
      4. We've got an element in the DOM, we've created a template, and we've
