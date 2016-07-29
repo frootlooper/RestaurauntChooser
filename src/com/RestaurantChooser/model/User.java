@@ -9,7 +9,7 @@ import org.hibernate.annotations.GenericGenerator;
  */
 
 @Entity
-@Table(name="picker_users")
+@Table(name="users")
 public class User {
 
     private String username;
@@ -21,13 +21,13 @@ public class User {
     public User() {}
 
     @Override
-    public boolean equals(Object u) {
-        return this.id.equals(((User)u).getId());
+    public boolean equals(Object o) {
+        return this.id.equals(((User)o).getId());
     }
 
     @Override
     public String toString() {
-        return "Username: "+username+", Name: "+firstName+" "+lastName+", Password: "+password;
+        return "User = {username: "+username+", name: "+firstName+" "+lastName+", password: "+password+"}";
     }
 
     @Column(name="username", unique=true)

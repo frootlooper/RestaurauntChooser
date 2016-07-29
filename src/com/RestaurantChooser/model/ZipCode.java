@@ -36,6 +36,6 @@ public class ZipCode {
 
     @Override
     public String toString() {
-        return "Zip code: "+code+", Latitude: "+latitude+", Longitude: "+longitude;
+        return "ZipCode = {code: "+code+", latitude: "+latitude+", longitude: "+longitude+"}";
     }
 }
