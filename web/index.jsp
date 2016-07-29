@@ -1,20 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Frootlooper
-  Date: 5/22/2016
-  Time: 9:03 PM
-  To change this template use File | Settings | File Templates.
---%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<!doctype html>
-<html lang='en-GB'>
-<head>
-  <meta charset='utf-8'>
-  <title>Ractive test</title>
-</head>
-
-<body>
-<h1>Ractive test</h1>
+<jsp:include page="includes/header.jsp"/>
 
 <!--
      1. This is the element we'll render our Ractive to.
@@ -59,5 +43,5 @@
     data: { name: 'world' }
   });
 </script>
-</body>
-</html>
+
+<jsp:include page="includes/footer.jsp"/>
