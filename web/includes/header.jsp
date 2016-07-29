@@ -2,6 +2,8 @@
 <!doctype html>
 <html lang='en-GB'>
 <head>
+    <script type="text/css" src="../font-awesome-4.5.0/css/font-awesome.min.css"></script>
+    <script type="text/css" src="../css/custom.css"></script>
     <title>Restaurant Chooser</title>
 </head>
 
