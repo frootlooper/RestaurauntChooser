@@ -13,5 +13,7 @@
 
 <menu>
     <li>Home</li>
-    <li></li>
+    <li>My History</li>
+    <li>My Account</li>
+    <li>Logout</li>
 </menu>
